@@ -18,7 +18,7 @@
 ## 🚀 Projects
 
 - 🏡 [**AI Room Designer: Home**](https://airoomdesignhome.com/) - Transform any room instantly with AI-generated interior design visualizations — [available on iOS](https://apps.apple.com/tr/app/ai-room-designer-home/id6757017921)
-- 🚗 [**KeyBalkan**](https://keybalkan.com) - The leading vehicle & real estate marketplace for Kosovo and the Balkans region
+- 🚗 [**KeyBalkan**](https://keybalkan.com) - The leading vehicle & real estate marketplace for Kosovo and the Balkans region - [available on iOS](https://apps.apple.com/tr/app/keybalkan/id6752991321)
 - 🤖 [**DuxGPT**](https://duxgpt.com/) - AI-powered GPT tool with advanced capabilities including math equation support
 - 🏥 [**MedopiAI**](https://medopiai.com) - Innovative healthcare management platform connecting patients, doctors, and facilities
 - 💾 [**Transactional-Metadata-Journaling-EXT2**](https://github.com/Toygarmetu/Transactional-Metadata-Journaling-EXT2) - Full journaling implementation for EXT2 filesystems with mkdir, rmdir, rm and ed transactional support
