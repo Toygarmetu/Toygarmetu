@@ -21,7 +21,7 @@
 - 🚗 [**KeyBalkan**](https://keybalkan.com) - The leading vehicle & real estate marketplace for Kosovo and the Balkans region  — [available on iOS](https://apps.apple.com/tr/app/keybalkan/id6752991321)
 - 🤖 [**DuxGPT**](https://duxgpt.com/) - AI-powered GPT tool with advanced capabilities including math equation support
 - 🏥 [**MedopiAI**](https://medopiai.com) - Innovative healthcare management platform connecting patients, doctors, and facilities
-- 🍽️ [**QrderMenu**](https://qrdermenu.com) - Digital QR menu & ordering system — customers scan, browse and order directly from their table, no app needed
+- 🍽️ [**QrderMenu**](https://qrdermenu.com) - Digital QR menu & ordering system — customers scan, browse and order directly from their table
 - 💾 [**Transactional-Metadata-Journaling-EXT2**](https://github.com/Toygarmetu/Transactional-Metadata-Journaling-EXT2) - Full journaling implementation for EXT2 filesystems with mkdir, rmdir, rm and ed transactional support
 
 ---
