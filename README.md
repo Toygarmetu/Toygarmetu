@@ -28,7 +28,6 @@
 
 ## 🛠️ Other Work
 
-- 🔬 [**ai-code-review-assignment**](https://github.com/Toygarmetu/ai-code-review-assignment) - AI-assisted code review system
 - 🏨 [**Internship-Django-Medical**](https://github.com/Toygarmetu/Internship-Django-Medical) - Healthcare management web app with Django; patient, doctor & facility interactions
 - 🐳 [**ExpenseSplitter-Dockerized**](https://github.com/Toygarmetu/ExpenseSplitter-Dockerized) - Expense splitter web app with dockerized microservices architecture
 - 🐇 [**OpenGL-Bunny-Game**](https://github.com/Toygarmetu/OpenGL-Bunny-Game) - Endless runner game built with OpenGL — bunny dodges obstacles on an infinite road
