@@ -17,7 +17,7 @@
 
 ## 🚀 Projects
 
-- 💰 [**Collect AI**](https://github.com/Toygarmetu/settlement-ai) - AI-powered class action settlement finder — automatically matches users with eligible settlements across US, Canada & UK — [available on iOS](https://apps.apple.com/tr/app/collect-ai-settlement-finder/id6760950821)
+- 💰 [**Settlement Finder: Collect**](https://github.com/Toygarmetu/settlement-ai) - AI-powered class action settlement finder — automatically matches users with eligible settlements across US, Canada & UK — [available on iOS](https://apps.apple.com/tr/app/collect-ai-settlement-finder/id6760950821)
 - 🏡 [**AI Room Designer: Home**](https://airoomdesignhome.com/) - Transform any room instantly with AI-generated interior design visualizations — [on iOS](https://apps.apple.com/tr/app/ai-room-designer-home/id6757017921)
 - 🚗 [**KeyBalkan**](https://keybalkan.com) - The leading vehicle & real estate marketplace for Kosovo and the Balkans region  — [available on iOS](https://apps.apple.com/tr/app/keybalkan/id6752991321)
 - 🤖 [**DuxGPT**](https://duxgpt.com/) - AI-powered GPT tool with advanced capabilities including math equation support
